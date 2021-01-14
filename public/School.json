@@ -1,0 +1,204 @@
+{
+    "Students": [
+        {
+            "id": 0,
+            "name": "Sahar Alassaf",
+            "age": 22,
+            "email": "Sahar@gmail.com",
+            "img": "https://cdn.esquimaltmfrc.com/wp-content/uploads/2015/09/flat-faces-icons-circle-woman-7.png",
+            "course": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hind Alayed",
+            "age": 21,
+            "email": "hind@gmail.com",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsg_cVSBekHOBX2bpBcoc4o-XUjbnsGyNe1Q&usqp=CAU",
+            "course": [
+                1,
+                2,
+                3
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Reema Aldowaysh",
+            "age": 16,
+            "email": "Reema@gmail.com",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa0-4Ry22Bx8q_n4CXoXIUp2qmIsNoxMOc3w&usqp=CAU",
+            "course": [
+                2,
+                3
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Khloud Alhawass",
+            "age": 20,
+            "email": "Khloud@gmail.com",
+            "img": "https://cdn.esquimaltmfrc.com/wp-content/uploads/2015/09/flat-faces-icons-circle-woman-3.png",
+            "course": [
+                1,
+                2
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Nourah Aljuhanii",
+            "age": 24,
+            "email": "Nourah@gmail.com",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAOWNci2EN6LKIJ8Pahym77ZUsTHmOW50WbA&usqp=CAU",
+            "course": [
+                2,
+                3
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Raghad Alatni",
+            "age": 28,
+            "email": "Raghad@gmail.com",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa0-4Ry22Bx8q_n4CXoXIUp2qmIsNoxMOc3w&usqp=CAU",
+            "course": [
+                1,
+                4,
+                5
+            ]
+        }
+    ],
+    "Techers": [
+        {
+            "id": 0,
+            "name": "Dhai Alayed",
+            "age": 28,
+            "email": "Dhai@gmail.com",
+            "bio": " Lecturer IV at the University of Michigan School of Information, where she teaches various technology-oriented courses including introductory programming and Web development. Colleen's previous jobs include Associate Professor at California State University and positions at NASA JPL, the Naval Research Lab, and the NSA. She received her BS from Kent State University Honors College in Computer Science, and an MS and PhD from the University of Pittsburgh, also in Computer Science. Her thesis was on Artificial Intelligence applications on the Nursebot Project, a robotic assistant for the elderly. Her honors include being chosen as a National Physical Sciences Consortium Fellow and a NASA Faculty Fellow.",
+            "img": "https://i.pinimg.com/originals/a6/58/32/a65832155622ac173337874f02b218fb.png",
+            "course": [
+                1,
+                4,
+                2
+            ],
+            "linkedStudent": [
+                2,
+                3
+            ]
+        },
+        {
+            "id": 1,
+            "name": "Hessah Aldowayan",
+            "age": 30,
+            "email": "HESSAH@gmail.com",
+            "bio": "a Clinical Professor at the University of Michigan School of Information, where he teaches various technology-oriented courses including programming, database design, and Web development. Chuck has written a number of books including Using Google App Engine, and Python for Everybody. His research field is in the building of learning management systems such as Sakai, Moodle, Blackboard, ANGEL, and others. ",
+            "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSa0-4Ry22Bx8q_n4CXoXIUp2qmIsNoxMOc3w&usqp=CAU  ",
+            "course": [
+                1,
+                3
+            ],
+            "linkedStudent": [
+                1,
+                3
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Tomader Annusayan",
+            "age": 33,
+            "email": "TOMA@gmail.com",
+            "bio": "here is the bio of the teacher",
+            "img": "https://cdn0.iconfinder.com/data/icons/avatar-2-3/450/17_avatar__woman_user-512.png",
+            "course": [
+                2
+            ],
+            "linkedStudent": [
+                4,
+                5
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Maha Alkalifah",
+            "age": 33,
+            "email": "Maha@gmail.com",
+            "bio": "here is the bio of the teacher",
+            "img": "https://cdn3.iconfinder.com/data/icons/avatars-collection/256/35-512.png",
+            "course": [
+                2
+            ],
+            "linkedStudent": [
+                1,
+                2,
+                3,
+                4
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Fatemah Alkalaf",
+            "age": 39,
+            "email": "Fatemah@gmail.com",
+            "bio": "here is the bio of the teacher",
+            "img": "https://cdn3.iconfinder.com/data/icons/avatars-collection/256/02-512.png",
+            "course": [
+                2
+            ],
+            "linkedStudent": [
+                2,
+                3,
+                5
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Arwa Algofaily",
+            "age": 41,
+            "email": "Arwa@gmail.com",
+            "bio": "here is the bio of the teacher",
+            "img": "https://cdn3.iconfinder.com/data/icons/avatars-collection/256/21-512.png",
+            "course": [
+                2
+            ],
+            "linkedStudent": [
+                4,
+                5,
+                1
+            ]
+        }
+    ],
+    "Courses": [
+        {
+            "id": 0,
+            "name": "Intro to APIs ",
+            "description": "We use APIs everyday - when we check the news, when we log into online service - because APIs are used by many companies as a way to interact with their product or service. Being able understand and send API requests is helpful in many roles across the business - including product, marketing and data. If you work alongside or interact with APIs in your job, or you want to use APIs in your tech or data projects, this course is a great introduction to interacting with APIs without writing could (using a program called Postman). By the end of this project, you will understand what APIs are and what they are used for. You will have interacted with a number of APIs, and recognise the different parts which make up an API. You will feel comfortable reading API documentation and writing your own requests.",
+            "img": "https://image.flaticon.com/icons/png/512/2165/2165004.png"
+        },
+        {
+            "id": 1,
+            "name": "FrontEnd: HTML, CSS, and Javascript",
+            "description": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today’s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones.In this course, we will learn the basic tools that every web page coder needs to know. We will start from the ground up by learning how to implement modern web pages with HTML and CSS. We will then advance to learning how to code our pages such that its components rearrange and resize themselves automatically based on the size of the user’s screen. You’ll be able to code up a web page that will be just as useful on a mobile phone as on a desktop computer. No “pinch and zoom” required! Last but certainly not least, we will get a thorough introduction to the most ubiquitous, popular, and incredibly powerful language of the web: Javascript. Using Javascript, you will be able to build a fully functional web application that utilizes Ajax to expose server-side functionality and data to the end user.",
+            "img": "https://img.icons8.com/plasticine/2x/html.png"
+        },
+        {
+            "id": 2,
+            "name": "BackEnd",
+            "description": " course to teach SQL , PHP",
+            "img": "https://cdn3.iconfinder.com/data/icons/illustricon-tech/512/development.browser.gears.-512.png"
+        },
+        {
+            "id": 3,
+            "name": "Full-Stack Web Development with React",
+            "description": "Learn front-end and hybrid mobile development, with server-side support, for implementing a multi-platform solution.The first two courses in this Specialization cover front-end frameworks: Bootstrap 4 and React. You’ll also learn to create hybrid mobile applications, using React Native. On the server side, you’ll learn to implement NoSQL databases using MongoDB, work within a Node.js environment and Express framework, and communicate to the client side through a RESTful API. Learners enrolling in this Specialization are expected to have prior working knowledge of HTML, CSS and JavaScript.Ideally learners should complete the courses in the specified sequence. It is strongly recommended that the React course be completed before proceeding with the React Native course",
+            "img": "https://pbs.twimg.com/profile_images/611130543434919936/PEPc9INF_400x400.png"
+        },
+        {
+            "id": 4,
+            "name": "Graphic Design",
+            "description": "course to teach photoshop ",
+            "img": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/1d/5c8ca09f9b11e58b2bcd64bf4ee4c5/00.SPEC_1200-x-1200_logo.jpg?auto=format%2Ccompress&dpr=1&w=150&h=150&fit=fill&bg=FFF"
+        }
+    ]
+}
